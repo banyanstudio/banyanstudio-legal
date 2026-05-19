@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Privacy Policy for the Status Saver Android application, published by Banyan Studio.">
+    <title>Privacy Policy — Status Saver</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="site">
+        <div class="container">
+            <a href="index.html" class="brand">Banyan Studio</a>
+            <nav>
+                <a href="privacy.html">Privacy</a>
+                <a href="terms.html">Terms</a>
+            </nav>
+        </div>
+    </header>
+
+    <main class="container">
+        <h1>Privacy Policy</h1>
+
+        <div class="meta">
+            <p><strong>App:</strong> Status Saver</p>
+            <p><strong>Publisher:</strong> Banyan Studio</p>
+            <p><strong>Contact:</strong> <a href="mailto:timeloopdevelopers@gmail.com">timeloopdevelopers@gmail.com</a></p>
+            <p><strong>Last updated:</strong> 2026-05-19</p>
+        </div>
+
+        <p>This Privacy Policy describes how the Status Saver Android application ("the App", "we", "us") handles information when you use it. Please read it together with our <a href="terms.html">Terms &amp; Conditions</a>.</p>
+
+        <p>Because the App processes no personal data outside your device, the App has no data-controller obligations under the EU GDPR, UK GDPR, California CCPA/CPRA, or India's Digital Personal Data Protection Act, 2023. Statutory rights under these laws are preserved to the extent they apply to you.</p>
+
+        <h2>Summary</h2>
+        <ul>
+            <li>The App <strong>does not collect, transmit, sell, or share any personal data</strong>.</li>
+            <li>The App <strong>has no accounts, no sign-up, and no analytics or advertising SDKs</strong>.</li>
+            <li>All processing happens <strong>locally on your device</strong>. Nothing you view or save inside the App leaves your phone through the App.</li>
+        </ul>
+        <p>If any of the above ever changes, this policy will be updated <strong>before</strong> the change ships to the Play Store, and the "Last updated" date above will be revised.</p>
+
+        <h2>1. Information the App does not collect</h2>
+        <p>The App does <strong>not</strong> collect, request, or transmit any of the following:</p>
+        <ul>
+            <li>Personal identifiers (name, email, phone number, device IDs, advertising IDs)</li>
+            <li>Account credentials or contact lists</li>
+            <li>Location data</li>
+            <li>Usage analytics, crash reports, or telemetry of any kind</li>
+            <li>The content of any media you view, save, or share</li>
+        </ul>
+        <p>There are no third-party analytics, advertising, attribution, or crash-reporting SDKs integrated into the App.</p>
+
+        <h2>2. Information the App accesses locally on your device</h2>
+        <p>To do its job, the App reads media files that are already present on your device. This access is <strong>scoped, local, and never leaves your phone</strong>:</p>
+        <ul>
+            <li><strong>Status folder access (SAF tree URI).</strong> When you first open the App, Android asks you to grant access to the folder where your chat app stores recently viewed statuses. The App stores <strong>only the granted folder URI</strong> in its own private app storage (Android DataStore) so you do not have to re-grant access every time. The URI itself is just a pointer — no media content is copied or uploaded by storing it.</li>
+            <li><strong>Reading status media.</strong> The App reads photo and video files inside the folder you granted access to, in order to display them inside the App. Files are read on-demand for display and are not duplicated, uploaded, or transmitted. Status media is <strong>ephemeral</strong>: the underlying chat app typically keeps status files on your device for only about 24 hours after you view them, and removes them automatically when the status expires. If you have not used the App to save a copy before that happens, the file is gone and the App cannot recover it.</li>
+            <li><strong>Saving media to your gallery.</strong> When you tap save, the App writes a copy of the selected file to your device's public media storage via Android's MediaStore API:
+                <ul>
+                    <li>Photos → <code>Pictures/StatusSaver</code></li>
+                    <li>Videos → <code>Movies/StatusSaver</code></li>
+                </ul>
+                Saved files become part of your normal device gallery and are managed by Android, not by the App.
+            </li>
+            <li><strong>Sharing.</strong> When you tap share, the App hands the selected file to Android's standard share sheet via a <code>FileProvider</code>. The destination app (gallery, messaging app, etc.) is chosen by you. The App does not see or record what you share or whom you share it with.</li>
+        </ul>
+        <p>The App requires <strong>no <code>MANAGE_EXTERNAL_STORAGE</code></strong> and <strong>no broad storage permission</strong>. It can only read files in the folder you explicitly granted access to.</p>
+
+        <h2>3. Permissions used</h2>
+        <div class="table-wrap">
+            <table>
+                <thead>
+                    <tr>
+                        <th>Permission / capability</th>
+                        <th>Why it's used</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Storage Access Framework (SAF) folder grant</td>
+                        <td>To read status media from the folder you select</td>
+                    </tr>
+                    <tr>
+                        <td>MediaStore write (scoped, no runtime permission on Android 10+)</td>
+                        <td>To save a copy of the file you chose into your gallery</td>
+                    </tr>
+                    <tr>
+                        <td>FileProvider (in-process)</td>
+                        <td>To hand a file to another app when you tap share</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <p>The App does <strong>not</strong> request internet, location, contacts, camera, microphone, or background-execution permissions.</p>
+
+        <h2>4. Network activity</h2>
+        <p>The App does <strong>not</strong> make network requests to any first-party or third-party server. It will continue to function with the device in airplane mode. There is no remote configuration, no telemetry endpoint, and no advertising network.</p>
+        <p>The Google Play Store itself may collect aggregate install or crash information independently of the App. That collection is governed by Google's own Privacy Policy and is outside our control.</p>
+
+        <h2>5. Children's privacy</h2>
+        <p>The App is rated for general audiences and is not directed specifically at children. Because the App collects no personal data, it does not knowingly collect data from children under 13 in the United States, or under the equivalent minimum age of digital consent in your country (which is up to 16 in parts of the European Union).</p>
+
+        <h2>6. Data retention</h2>
+        <p>Because no data is collected or transmitted, there is nothing for us to retain.</p>
+        <p>Locally, the App stores the following on your device only:</p>
+        <ul>
+            <li>The SAF folder URI you granted, in the App's private DataStore</li>
+            <li>Files you explicitly save, in your device's public Pictures / Movies folders</li>
+        </ul>
+        <p>You can remove the SAF URI at any time by clearing the App's data in <strong>Settings → Apps → Status Saver → Storage → Clear data</strong>, or by uninstalling the App. Saved files in your gallery are yours and remain on your device until you delete them.</p>
+
+        <h2>7. Your rights</h2>
+        <p>Since the App does not collect personal data, there is no personal data for us to access, correct, export, or delete on your behalf. You retain full control over the media on your own device.</p>
+        <p>If you believe this policy has been violated or you have questions about it, contact us at <a href="mailto:timeloopdevelopers@gmail.com">timeloopdevelopers@gmail.com</a>.</p>
+
+        <h2>8. Independence from messaging services</h2>
+        <p>Status Saver is an independent utility. It is <strong>not affiliated with, endorsed by, sponsored by, or otherwise associated with</strong> any messaging service, social network, or their owners. All trademarks belong to their respective owners.</p>
+
+        <h2>9. Changes to this policy</h2>
+        <p>If this policy is updated, the new version will be made available at the same URL where you obtained this one before the change reaches users. Continued use of the App after a change becomes effective constitutes acceptance of the updated policy.</p>
+
+        <h2>10. Contact</h2>
+        <p>Questions about this policy can be sent to: <a href="mailto:timeloopdevelopers@gmail.com">timeloopdevelopers@gmail.com</a></p>
+    </main>
+
+    <footer class="site">
+        <p>
+            <a href="index.html">Home</a>
+            <a href="terms.html">Terms &amp; Conditions</a>
+        </p>
+        <p>&copy; Banyan Studio</p>
+    </footer>
+</body>
+</html>
