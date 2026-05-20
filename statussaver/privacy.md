@@ -2,7 +2,7 @@
 
 **App:** Status Saver
 **Publisher:** Banyan Studio
-**Contact:** timeloopdevelopers@gmail.com
+**Contact:** banyanstudio.dev@gmail.com
 **Last updated:** 2026-05-19
 
 This Privacy Policy describes how the Status Saver Android application ("the App", "we", "us") handles information when you use it. Please read it together with our [Terms & Conditions](terms.md).
@@ -78,7 +78,7 @@ You can remove the SAF URI at any time by clearing the App's data in **Settings 
 
 Since the App does not collect personal data, there is no personal data for us to access, correct, export, or delete on your behalf. You retain full control over the media on your own device.
 
-If you believe this policy has been violated or you have questions about it, contact us at timeloopdevelopers@gmail.com.
+If you believe this policy has been violated or you have questions about it, contact us at banyanstudio.dev@gmail.com.
 
 ## 8. Independence from messaging services
 
@@ -90,4 +90,4 @@ If this policy is updated, the new version will be made available at the same UR
 
 ## 10. Contact
 
-Questions about this policy can be sent to: timeloopdevelopers@gmail.com
+Questions about this policy can be sent to: banyanstudio.dev@gmail.com

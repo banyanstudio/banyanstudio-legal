@@ -2,7 +2,7 @@
 
 **App:** Status Saver
 **Publisher:** Banyan Studio
-**Contact:** timeloopdevelopers@gmail.com
+**Contact:** banyanstudio.dev@gmail.com
 **Last updated:** 2026-05-19
 
 These Terms & Conditions ("Terms") govern your use of the Status Saver Android application ("the App"). By installing or using the App, you agree to these Terms. If you do not agree, do not install or use the App.
@@ -103,4 +103,4 @@ These Terms, together with the Privacy Policy, constitute the entire agreement b
 
 ## 16. Contact
 
-Questions about these Terms can be sent to: timeloopdevelopers@gmail.com
+Questions about these Terms can be sent to: banyanstudio.dev@gmail.com

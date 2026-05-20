@@ -45,4 +45,4 @@ When you change one, mirror the change to the other so both stay in sync, then b
 
 ## Contact
 
-`timeloopdevelopers@gmail.com`
+`banyanstudio.dev@gmail.com`
