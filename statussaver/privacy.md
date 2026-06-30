@@ -7,27 +7,26 @@
 
 This Privacy Policy describes how the Status Saver Android application ("the App", "we", "us") handles information when you use it. Please read it together with our [Terms & Conditions](terms.md).
 
-Because the App processes no personal data outside your device, the App has no data-controller obligations under the EU GDPR, UK GDPR, California CCPA/CPRA, or India's Digital Personal Data Protection Act, 2023. Statutory rights under these laws are preserved to the extent they apply to you.
+The App does not sell or share your personal data, and does not use it to build a profile of you or to serve advertising. Statutory rights under the EU GDPR, UK GDPR, California CCPA/CPRA, and India's Digital Personal Data Protection Act, 2023 are preserved to the extent they apply to you.
 
 ## Summary
 
-- The App **does not collect, transmit, sell, or share any personal data**.
-- The App **has no accounts, no sign-up, and no analytics or advertising SDKs**.
-- All processing happens **locally on your device**. Nothing you view or save inside the App leaves your phone through the App.
+- The App **does not collect your personal information**, and never sells or shares your data.
+- The App **has no ads, no accounts, and no sign-up**.
+- **The photos and videos you view and save never leave your device** — the App does not upload your media anywhere.
 
 If any of the above ever changes, this policy will be updated **before** the change ships to the Play Store, and the "Last updated" date above will be revised.
 
 ## 1. Information the App does not collect
 
-The App does **not** collect, request, or transmit any of the following:
+The App does **not** collect or request any of the following:
 
-- Personal identifiers (name, email, phone number, device IDs, advertising IDs)
+- Personal identifiers such as your name, email, or phone number
 - Account credentials or contact lists
 - Location data
-- Usage analytics, crash reports, or telemetry of any kind
-- The content of any media you view, save, or share
+- The content of any photos or videos you view, save, or share
 
-There are no third-party analytics, advertising, attribution, or crash-reporting SDKs integrated into the App.
+The App shows no ads and contains no advertising or ad-attribution SDKs. The App does not sell or share your data with third parties.
 
 ## 2. Information the App accesses locally on your device
 
@@ -51,17 +50,17 @@ The App requires **no `MANAGE_EXTERNAL_STORAGE`** and **no broad storage permiss
 | MediaStore write (scoped, no runtime permission on Android 10+) | To save a copy of the file you chose into your gallery |
 | FileProvider (in-process) | To hand a file to another app when you tap share |
 
-The App does **not** request internet, location, contacts, camera, microphone, or background-execution permissions.
+The App does **not** request location, contacts, camera, microphone, or background-execution permissions.
 
 ## 4. Network activity
 
-The App does **not** make network requests to any first-party or third-party server. It will continue to function with the device in airplane mode. There is no remote configuration, no telemetry endpoint, and no advertising network.
+The App does not upload the photos or videos you view or save — that media never leaves your device. The App contains no advertising network and does not sell or share your personal data.
 
 The Google Play Store itself may collect aggregate install or crash information independently of the App. That collection is governed by Google's own Privacy Policy and is outside our control.
 
 ## 5. Children's privacy
 
-The App is rated for general audiences and is not directed specifically at children. Because the App collects no personal data, it does not knowingly collect data from children under 13 in the United States, or under the equivalent minimum age of digital consent in your country (which is up to 16 in parts of the European Union).
+The App is rated for general audiences and is not directed specifically at children. The App does not knowingly collect personal data from children under 13 in the United States, or under the equivalent minimum age of digital consent in your country (which is up to 16 in parts of the European Union).
 
 ## 6. Data retention
 

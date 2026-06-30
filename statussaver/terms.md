@@ -49,7 +49,7 @@ We reserve the right (but have no obligation) to investigate misuse and to coope
 
 ## 6. Privacy
 
-The App collects no personal data and transmits nothing off your device. For full details see the [Privacy Policy](privacy.html).
+The App does not sell or share your personal data, and the photos and videos you view or save stay on your device. For full details see the [Privacy Policy](privacy.html).
 
 ## 7. Updates and changes to the App
 
@@ -59,7 +59,7 @@ The App may be updated from time to time through the Google Play Store. Updates 
 
 The App is distributed through the Google Play Store, which is operated by Google and governed by Google's own terms and privacy policy. Your relationship with Google is independent of your relationship with us.
 
-The App itself integrates no third-party services, SDKs, analytics, advertising networks, or crash reporters.
+The App integrates no advertising networks or ad-attribution SDKs, and does not sell or share your data.
 
 ## 9. Disclaimers
 
