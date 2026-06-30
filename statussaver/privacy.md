@@ -3,7 +3,7 @@
 **App:** Status Saver
 **Publisher:** Banyan Studio
 **Contact:** banyanstudio.dev@gmail.com
-**Last updated:** 2026-05-19
+**Last updated:** 2026-06-30
 
 This Privacy Policy describes how the Status Saver Android application ("the App", "we", "us") handles information when you use it. Please read it together with our [Terms & Conditions](terms.md).
 
@@ -82,7 +82,7 @@ If you believe this policy has been violated or you have questions about it, con
 
 ## 8. Independence from messaging services
 
-Status Saver is an independent utility. It is **not affiliated with, endorsed by, sponsored by, or otherwise associated with** any messaging service, social network, or their owners. All trademarks belong to their respective owners.
+Status Saver is an independent utility. It is **not affiliated with, endorsed by, sponsored by, or otherwise associated with** WhatsApp LLC, Meta Platforms, Inc., or any other messaging service, social network, or their owners. WhatsApp is a trademark of WhatsApp LLC; any reference to it is descriptive (nominative) use only, to identify the chat app whose already-downloaded status media the App can help you save. All trademarks belong to their respective owners.
 
 ## 9. Changes to this policy
 

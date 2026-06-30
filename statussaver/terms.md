@@ -3,7 +3,7 @@
 **App:** Status Saver
 **Publisher:** Banyan Studio
 **Contact:** banyanstudio.dev@gmail.com
-**Last updated:** 2026-05-19
+**Last updated:** 2026-06-30
 
 These Terms & Conditions ("Terms") govern your use of the Status Saver Android application ("the App"). By installing or using the App, you agree to these Terms. If you do not agree, do not install or use the App.
 
@@ -17,7 +17,9 @@ The App only works with media that **already exists on your device** as a result
 
 ## 2. Independence and trademarks
 
-Status Saver is an independent utility. It is **not affiliated with, endorsed by, sponsored by, or otherwise associated with** any chat app, messaging service, social network, or their owners. All product names, logos, and trademarks referenced anywhere in connection with the App are the property of their respective owners and are used (if at all) for descriptive purposes only.
+Status Saver is an independent utility. It is **not affiliated with, endorsed by, sponsored by, or otherwise associated with** WhatsApp LLC, Meta Platforms, Inc., or any other chat app, messaging service, social network, or their owners.
+
+WhatsApp is a trademark of WhatsApp LLC. Any reference to "WhatsApp" in the App, in its Google Play store listing, or in this document is **descriptive (nominative) use only** — used to identify the chat app whose already-downloaded status media the App can help you save — and does not imply any endorsement, sponsorship, partnership, or other association. All other product names, logos, and trademarks referenced anywhere in connection with the App are the property of their respective owners and are likewise used for descriptive purposes only.
 
 ## 3. Eligibility
 
