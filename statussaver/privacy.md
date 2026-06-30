@@ -64,7 +64,7 @@ The App is rated for general audiences and is not directed specifically at child
 
 ## 6. Data retention
 
-Because no data is collected or transmitted, there is nothing for us to retain.
+We do not hold your personal data on any server, so there is nothing for us to retain or delete on our side.
 
 Locally, the App stores the following on your device only:
 
@@ -75,7 +75,7 @@ You can remove the SAF URI at any time by clearing the App's data in **Settings 
 
 ## 7. Your rights
 
-Since the App does not collect personal data, there is no personal data for us to access, correct, export, or delete on your behalf. You retain full control over the media on your own device.
+The App does not sell or share your personal data, and you retain full control over the media on your own device. If you have a question or request about your data, contact us at banyanstudio.dev@gmail.com.
 
 If you believe this policy has been violated or you have questions about it, contact us at banyanstudio.dev@gmail.com.
 
